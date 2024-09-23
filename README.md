@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🚀 Computer Engineering graduate from the University of Mumbai. Passionate about exploring the realms of machine learning, image processing, and web development. Always eager to learn and innovate! 💻✨
+
 ![HardikNickam's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardikNickam&show_icons=true&theme=transparent)
 
