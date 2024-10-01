@@ -1,7 +1,5 @@
 
 
-# 💫 About Me:
-🚀 Computer Engineering graduate from the University of Mumbai. Passionate about exploring the realms of machine learning, image processing, and web development. Always eager to learn and innovate! 💻✨
 
 # Hi, I'm Hardik 👋
 
