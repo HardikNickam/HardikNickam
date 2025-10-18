@@ -32,6 +32,8 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HardikNickam&count_private=true&include_all_commits=true&theme=dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HardikNickam&theme=dark)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikNickam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
