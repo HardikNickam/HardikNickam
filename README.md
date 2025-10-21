@@ -30,26 +30,17 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HardikNickam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280&bg_color=00000000"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikNickam&layout=donut&theme=transparent&hide_border=true&title_color=3B82F6&text_color=6B7280&bg_color=00000000"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HardikNickam&theme=transparent&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=6B7280&sideLabels=3B82F6&dates=6B7280"/>
-</p>
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/HardikNickam/HardikNickam/output/github-contribution-grid-snake-dark.svg" />
-
-<!-- Profile Views Counter -->
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=HardikNickam&color=blueviolet&style=flat-square&label=Profile+Views"/>
-
-<!-- GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HardikNickam&theme=tokyonight"/>
-
-<!-- Commit Time Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=HardikNickam&theme=tokyonight&hide_border=true"/>
+<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HardikNickam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=6B7280&bg_color=00000000"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=HardikNickam&theme=transparent&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=6B7280&sideLabels=3B82F6&dates=6B7280"/>
+<br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikNickam&layout=donut&theme=transparent&hide_border=true&title_color=3B82F6&text_color=6B7280&bg_color=00000000"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HardikNickam&theme=transparent"/>
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HardikNickam&theme=transparent"/>
+</div>
 
 ---
 
